@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ShoppingWishList</string>
+    <string name="action_settings">Settings</string>
+    <string name="DragAndDropInstruction">Hello world! Drag and drop up to three categories.  If doing less than three wishes please drag and drop No Category icon.  Then press NEXT button.</string>
+    <string name="eText">Computers</string>
+    <string name="title_activity_wish_list">WishList</string>
+    <string name="next">NEXT</string>
+    <string name="wish1T">Category 1</string>
+    <string name="wish2T">Category 2</string>
+    <string name="wish3T">Category 3</string>
+    <string name="FirstName">First Name</string>
+    <string name="LastName">Last Name</string>
+    <string name="wish1">WISH 1</string>
+    <string name="wish2">WISH 2</string>
+    <string name="wish3">WISH 3</string>
+    <string name="wishlistInstructions">Select actual product you desire from the three spinners.</string>
+    <string name="no_activities">No Activities</string>
+
+    
+   
+    <string-array name="Clothes">
+        <item>Clothes</item>
+        <item>Levis</item>
+        <item>Dockers</item>
+        <item>Calvin Klein</item>
+        <item>Guess</item>
+        <item>Lucky Brand</item>
+        <item>Nike</item>
+        <item>Carter</item>
+        <item>Tommy Hilfiger</item>
+    </string-array>
+    <string-array name="Computers">
+        <item>Computers</item>
+        <item>Sony</item>
+        <item>MacBook Air</item>
+        <item>Apple</item>
+        <item>Samsung</item>
+        <item>Acer</item>
+        <item>Asus</item>
+        <item>Lenovo</item>
+        <item>Toshiba</item>
+    </string-array>
+    <string-array name="Dining">
+        <item>Dining</item>
+        <item>Papa Johns</item>
+        <item>BJs Restaurants</item>
+        <item>Dennys</item>
+        <item>California Sushi Roll</item>
+        <item>Taco Bell</item>
+        <item>The Cheesecake Factory</item>
+        <item>Pizza Hut</item>
+        <item>Carls Jr</item>
+    </string-array>
+    <string-array name="eBooks">
+        <item>eBooks</item>
+        <item>Romance</item>
+        <item>Science Fiction</item>
+        <item>Technology</item>
+        <item>Business</item>
+        <item>Health</item>
+        <item>History</item>
+        <item>Mystery</item>
+        <item>Childrens</item>
+    </string-array>
+    <string-array name="Movies">
+        <item>Movies</item>
+        <item>Science Fiction</item>
+        <item>Mystery</item>
+        <item>Horror</item>
+        <item>Comedy</item>
+        <item>Romantic</item>
+        <item>Children\'s</item>
+        <item>Family</item>
+        <item>Action</item>
+    </string-array>
+    <string-array name="Pets">
+        <item>Pets</item>
+        <item>Cat</item>
+        <item>Dog</item>
+        <item>Bird</item>
+        <item>Fish</item>
+        <item>Rabbits</item>
+        <item>Hamsters</item>
+        <item>Turtles</item>
+        <item>Snakes</item>
+    </string-array>
+    <string-array name="Travel">
+        <item>Travel</item>
+        <item>Universal Studios</item>
+        <item>Six Flags Magic Mountain</item>
+        <item>Sea World</item>
+        <item>Legoland</item>
+        <item>Disneyland</item>
+        <item>San Diego Wild Animal Park</item>
+        <item>Disney California</item>
+        <item>Hurricane Harbor</item>
+    </string-array>
+    <string-array name="VideoGames">
+        <item>Video Games</item>
+        <item>Playstation 4</item>
+        <item>XBOX</item>
+        <item>Nintendo Wii U</item>
+        <item>Playstation 3</item>
+        <item>Nintendo Wii</item>
+        <item>Android</item>
+        <item>iPhone</item>
+        <item>PC</item>
+    </string-array>
+    <string-array name="Empty">
+        <item>Empty</item>
+    </string-array>
+
+    <string name="title_activity_wish_list_adapter">WishListAdapter</string>
+    <string name="title_activity_person_one">PersonOne</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_person_two">PersonTwo</string>
+    <string name="title_activity_person_three">PersonThree</string>
+    <string name="nameID">Full Name</string>
+    <string name="newList">New List</string>
+    <string name="prevList">Previous List</string>
+
+</resources>
